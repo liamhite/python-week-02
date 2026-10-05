@@ -1,1 +1,2 @@
-# python-week-2
+# python-week-02
+math variables and operators
